@@ -1,0 +1,19 @@
+  body {
+  background-image: url("nightshadebackground.jpg");
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  h2 {
+    color: aliceblue;
+    text-align: left;
+  }
+
+  p {
+    color: aliceblue;
+    font-family: verdana;
+    font-size: 20px;
+  }
